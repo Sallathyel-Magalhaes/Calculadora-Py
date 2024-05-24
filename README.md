@@ -11,13 +11,13 @@ Esta é uma calculadora simples desenvolvida em Python usando a biblioteca Tkint
 
 ## Como Executar
 
-1. Faça o download do instalador.
+1. Faça o download do instalador. https://github.com/Sallathyel-Magalhaes/Calculadora-Py/blob/main/mysetup.exe
 2. Navegue até o diretório onde os arquivos estão localizados.
 3. Execute a instalação.
 
 ## Bugs ou Erros
 
-*Por favo caso encontrado algum bug ou erro abra um comentário.
+*Por favor caso encontrado algum bug ou erro abra um comentário.
 
 ## Licença
 
